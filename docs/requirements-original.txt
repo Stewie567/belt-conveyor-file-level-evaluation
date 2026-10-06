@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.0
+matplotlib==3.11.1
+pytest==9.1.1
+torch==2.7.1+cu128
+tabulate==0.10.0

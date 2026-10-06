@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the conference paper when using this evaluation code."
+type: software
+title: "Recording-Disjoint Evaluation of Belt Conveyor State Monitoring Across Operating Speeds"
+authors:
+  - family-names: Wang
+    given-names: Jianfei
+  - family-names: Gordin
+    given-names: Sergey A.
+  - family-names: Varnavskiy
+    given-names: Kirill A.
+repository-code: "https://github.com/Stewie567/belt-conveyor-file-level-evaluation"
+url: "https://github.com/Stewie567/belt-conveyor-file-level-evaluation"
+version: "1.0.0"
+keywords:
+  - belt conveyor
+  - file-disjoint evaluation
+  - time-series classification
+  - reproducibility
+  - SIBIRCON

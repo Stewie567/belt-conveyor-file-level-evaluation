@@ -1,0 +1,208 @@
+{
+  "window": {
+    "accuracy": 0.4835164835164835,
+    "balanced_accuracy": 0.31546231546231546,
+    "macro_precision": 0.2333333333333333,
+    "macro_recall": 0.31546231546231546,
+    "macro_f1": 0.2571258199165176,
+    "damage_recall": 0.9696969696969697,
+    "damage_f1": 0.9846153846153847,
+    "per_class": [
+      {
+        "label": 0,
+        "precision": 0.4,
+        "recall": 0.9230769230769231,
+        "f1": 0.5581395348837209,
+        "support": 13
+      },
+      {
+        "label": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 12
+      },
+      {
+        "label": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 5,
+        "precision": 1.0,
+        "recall": 0.9696969696969697,
+        "f1": 0.9846153846153847,
+        "support": 33
+      }
+    ],
+    "confusion_matrix": [
+      [
+        12,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        6,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        6,
+        3,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        32
+      ]
+    ]
+  },
+  "recording": {
+    "accuracy": 0.6,
+    "balanced_accuracy": 0.3333333333333333,
+    "macro_precision": 0.3333333333333333,
+    "macro_recall": 0.3333333333333333,
+    "macro_f1": 0.3333333333333333,
+    "damage_recall": 1.0,
+    "damage_f1": 1.0,
+    "per_class": [
+      {
+        "label": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 1
+      },
+      {
+        "label": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 5
+      }
+    ],
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ]
+  }
+}

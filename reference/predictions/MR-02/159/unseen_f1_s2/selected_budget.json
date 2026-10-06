@@ -1,0 +1,5 @@
+{
+  "epochs": 22,
+  "max_epochs": 60,
+  "patience": 12
+}

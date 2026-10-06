@@ -1,0 +1,208 @@
+{
+  "window": {
+    "accuracy": 0.4725274725274725,
+    "balanced_accuracy": 0.29594017094017094,
+    "macro_precision": 0.23267651888341545,
+    "macro_recall": 0.29594017094017094,
+    "macro_f1": 0.2507371369600471,
+    "damage_recall": 1.0,
+    "damage_f1": 0.9705882352941176,
+    "per_class": [
+      {
+        "label": 0,
+        "precision": 0.3103448275862069,
+        "recall": 0.6923076923076923,
+        "f1": 0.42857142857142855,
+        "support": 13
+      },
+      {
+        "label": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 3,
+        "precision": 0.14285714285714285,
+        "recall": 0.08333333333333333,
+        "f1": 0.10526315789473684,
+        "support": 12
+      },
+      {
+        "label": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 11
+      },
+      {
+        "label": 5,
+        "precision": 0.9428571428571428,
+        "recall": 1.0,
+        "f1": 0.9705882352941176,
+        "support": 33
+      }
+    ],
+    "confusion_matrix": [
+      [
+        9,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        5,
+        0,
+        0,
+        2
+      ],
+      [
+        6,
+        0,
+        0,
+        1,
+        4,
+        0
+      ],
+      [
+        7,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        3,
+        2,
+        1,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        33
+      ]
+    ]
+  },
+  "recording": {
+    "accuracy": 0.6,
+    "balanced_accuracy": 0.3333333333333333,
+    "macro_precision": 0.2222222222222222,
+    "macro_recall": 0.3333333333333333,
+    "macro_f1": 0.25,
+    "damage_recall": 1.0,
+    "damage_f1": 1.0,
+    "per_class": [
+      {
+        "label": 0,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "support": 1
+      },
+      {
+        "label": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 1
+      },
+      {
+        "label": 5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 5
+      }
+    ],
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ]
+  }
+}
